@@ -18,6 +18,7 @@
     height: 200px;
     margin:0 auto 30px;
     background: #DED6D3;
+    display: inline-block;
 }
 
 .large-item {
